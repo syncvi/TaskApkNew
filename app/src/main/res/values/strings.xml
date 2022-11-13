@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TaskAppNew</string>
+    <string name="task_name_hint">Wprowadź nazwę zadania</string>
+    <string name="task_name_label">Nazwa</string>
+    <string name="task_details_label">Szczegóły</string>
+    <string name="task_done_label">Wykonane</string>
+    <string name="keep_it_button">Zachowaj</string>
+    <string name="task_item_name">itemName</string>
+    <string name="task_item_date">itemDate</string>
+    <string name="task_add_new">Nowe zadanie</string>
+    <string name="show_subtitle">Pokaż podtytuł</string>
+    <string name="hide_subtitle">Schowaj podtytuł</string>
+    <string name="subtitle_format">%1$d zadań</string>
+</resources>
